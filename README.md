@@ -19,7 +19,7 @@ Schedule:
   * 8th Febuary - 22nd March (7 weeks)
   * check-in meeting: teams can meet with Rachel for questions or assistance with their model
   
-A more detailed schedule can be found [here](files/schedule.htm).
+A more detailed schedule can be found [here](files/schedule.pdf).
 
 # Materials for Modeling Club
 
