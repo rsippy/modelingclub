@@ -21,6 +21,12 @@ Schedule:
   
 A more detailed schedule can be found [here](files/schedule.pdf).
 
+# Previous Workshops
+
+* [2021 Workshop: Models & R](https://github.com/rsippy/workshop21)
+* [2022 Workshop: Surveillance & R](https://github.com/rsippy/workshop)
+
 # Materials for Modeling Club
 
-Copies of materials from the meetings will be stored on this site
+* [Week 1: Introduction, Key Questions, Model Development](Slides/ModellingClubW1s.pdf)
+
