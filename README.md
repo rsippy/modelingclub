@@ -28,5 +28,5 @@ A more detailed schedule can be found [here](files/schedule.pdf).
 
 # Materials for Modeling Club
 
-* [Week 1: Introduction, Key Questions, Model Development](Slides/ModellingClubW1s.pdf)
+* Week 1: Introduction, Key Questions, Model Development [slides](Slides/ModellingClubW1s.pdf) [recording](https://drive.google.com/drive/folders/1_ebnD9hbFm07hVYY0pFSMBmHx5p2_eXk?usp=sharing)
 
