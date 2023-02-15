@@ -1,37 +1,17 @@
-# Modelling Club
+# Team 2
 
-Bangladesh 2023
+Key Question: What is the impact of vaccination on the direct costs associated with cases, hospitalizations, and deaths?
 
-Goal: work in teams for step-by-step modeling practice
+Team Members:
 
-Plan: practice COVID-19 model for Bangladesh
+ * Dr Sharifhuddin Hasnat
+ * Dr Farzana Khan
 
-* each team creates a model
-* every week, focus on next step for model development
-* teams present final models
+Structure:
 
-Schedule:
 
-* Sundays, 19:00-21:00
-  * 5th February - 19th March (7 weeks)
-  * guided meetings: Rachel presents information for modeling, discussion of ideas, shares examples
-* Wednesdays, 15:00 - 16:00
-  * 8th Febuary - 22nd March (7 weeks)
-  * check-in meeting: teams can meet with Rachel for questions or assistance with their model
-  
-A more detailed schedule can be found [here](files/schedule.pdf).
 
-There are two teams, both focused on cost-effectiveness of vaccination.
- * [Team 1](Team1/): What is the impact of vaccination on the indirect costs associated with cases, hospitalizations, and deaths?
- * [Team 2](Team2/): What is the impact of vaccination on the direct costs associated with cases, hospitalizations, and deaths?
+Numbers Needed:
 
-# Previous Workshops
 
-* [2021 Workshop: Models & R](https://github.com/rsippy/workshop21)
-* [2022 Workshop: Surveillance & R](https://github.com/rsippy/workshop)
-
-# Materials for Modeling Club
-
-* Week 1: Introduction, Key Questions, Model Development {[slides](Slides/ModellingClubW1s.pdf)} {[recording](https://drive.google.com/drive/folders/1_ebnD9hbFm07hVYY0pFSMBmHx5p2_eXk?usp=sharing)}
-* Week 2: Model Ideas, Teams, and Sources of Information  {[slides](Slides/ModellingClubW2s.pdf)}
 
