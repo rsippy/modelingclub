@@ -32,6 +32,8 @@ There are two teams, both focused on cost-effectiveness of vaccination.
 
 # Materials for Modeling Club
 
-* Week 1: Introduction, Key Questions, Model Development {[slides](Slides/ModellingClubW1s.pdf)} {[recording](https://drive.google.com/drive/folders/1_ebnD9hbFm07hVYY0pFSMBmHx5p2_eXk?usp=sharing)}
+{[all recordings](https://drive.google.com/drive/folders/1_ebnD9hbFm07hVYY0pFSMBmHx5p2_eXk?usp=sharing)}
+
+* Week 1: Introduction, Key Questions, Model Development {[slides](Slides/ModellingClubW1s.pdf)} 
 * Week 2: Model Ideas, Teams, and Sources of Information  {[slides](Slides/ModellingClubW2s.pdf)}
 
