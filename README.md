@@ -21,9 +21,10 @@ Schedule:
   
 A more detailed schedule can be found [here](files/schedule.pdf).
 
-There are two teams, both focused on cost-effectiveness of vaccination.
+There are three teams.
  * [Team 1](Team1/): What is the impact of vaccination on the indirect costs associated with cases, hospitalizations, and deaths?
  * [Team 2](Team2/): What is the impact of vaccination on the direct costs associated with cases, hospitalizations, and deaths?
+ * [Team 3](Team3/): 
 
 # Previous Workshops
 
@@ -36,4 +37,4 @@ There are two teams, both focused on cost-effectiveness of vaccination.
 
 * Week 1: Introduction, Key Questions, Model Development {[slides](Slides/ModellingClubW1s.pdf)} 
 * Week 2: Model Ideas, Teams, and Sources of Information  {[slides](Slides/ModellingClubW2s.pdf)}
-
+* Week 3: Model Structures and Example Code  {[slides](Slides/ModellingClubW3s.pdf)} {[code](files/SEIR.html)}
