@@ -37,4 +37,4 @@ There are three teams.
 
 * Week 1: Introduction, Key Questions, Model Development {[slides](Slides/ModellingClubW1s.pdf)} 
 * Week 2: Model Ideas, Teams, and Sources of Information  {[slides](Slides/ModellingClubW2s.pdf)}
-* Week 3: Model Structures and Example Code  {[slides](Slides/ModellingClubW3s.pdf)} {[code](files/SEIR.html)}
+* Week 3: Model Structures and Example Code  {[slides](Slides/ModellingClubW3s.pdf)} {[code](files/SEIR.pdf)}
