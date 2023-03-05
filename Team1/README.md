@@ -5,9 +5,10 @@ Key Question: What is the impact of vaccination on the indirect costs associated
 Team Members:
 
  * Dr Sohel Rahman
+ 
+ [Model Plan](Team1model.pdf)
 
-Structure:
-
+Structure: SEIHRD
 
 
 Numbers Needed:
