@@ -39,3 +39,4 @@ There are three teams.
 * Week 2: Model Ideas, Teams, and Sources of Information  {[slides](Slides/ModellingClubW2s.pdf)}
 * Week 3: Model Structures and Example Code  {[slides](Slides/ModellingClubW3s.pdf)} {[code](files/SEIR.pdf)}
 * Week 4: Health Economics and Model Quantification {[slides](Slides/ModellingClubW4s.pdf)} {[table](https://docs.google.com/spreadsheets/d/1pQqOFNemWwW522EgH_LjDGIlB1l7jlCzQVslQYuzh7Q/edit?usp=drive_web&ouid=112941586298926482945)}
+* Week 5: Discussion of Team 1 Model 
