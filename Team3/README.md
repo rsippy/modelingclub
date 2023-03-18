@@ -1,13 +1,13 @@
-# Team 1
+# Team 3
 
-Key Question: What is the impact of vaccination on the indirect costs associated with cases, hospitalizations, and deaths?
+Key Question: What is the impact of vaccine effectiveness on the number of cases, hospitalizations, and deaths?
 
 Team Members:
 
- * Dr Sohel Rahman
+ * Dr Taifur Rahman
+ * Dr Motahara Tasneem
  
- [Model Plan](Team1model.pdf)
- [Model Revision](Team1model2.pdf)
+ [Model Plan](Team3.pdf)
 
 Structure: SVEIHRD
 
