@@ -24,7 +24,7 @@ A more detailed schedule can be found [here](files/schedule.pdf).
 There are three teams.
  * [Team 1](Team1/): What is the impact of vaccination on the indirect costs associated with cases, hospitalizations, and deaths?
  * [Team 2](Team2/): What is the impact of vaccination on the direct costs associated with cases, hospitalizations, and deaths?
- * [Team 3](Team3/): 
+ * [Team 3](Team3/): What is the impact of vaccine effectiveness on the number of cases, hospitalizations, and deaths?
 
 # Previous Workshops
 
@@ -40,3 +40,4 @@ There are three teams.
 * Week 3: Model Structures and Example Code  {[slides](Slides/ModellingClubW3s.pdf)} {[code](files/SEIR.pdf)}
 * Week 4: Health Economics and Model Quantification {[slides](Slides/ModellingClubW4s.pdf)} {[table](https://docs.google.com/spreadsheets/d/1pQqOFNemWwW522EgH_LjDGIlB1l7jlCzQVslQYuzh7Q/edit?usp=drive_web&ouid=112941586298926482945)}
 * Week 5: Discussion of [Team 1](Team1/) Model 
+* Week 6: Discussion of [Team 3](Team3/) Model, Revision of [Team 1](Team1/) Model
