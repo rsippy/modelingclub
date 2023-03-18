@@ -7,8 +7,9 @@ Team Members:
  * Dr Sohel Rahman
  
  [Model Plan](Team1model.pdf)
+ [Model Revision](Team1model2.pdf)
 
-Structure: SEIHRD
+Structure: SVEIHRD
 
 
 Numbers Needed:
