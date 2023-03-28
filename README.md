@@ -41,4 +41,4 @@ There are three teams.
 * Week 4: Health Economics and Model Quantification {[slides](Slides/ModellingClubW4s.pdf)} {[table](https://docs.google.com/spreadsheets/d/1pQqOFNemWwW522EgH_LjDGIlB1l7jlCzQVslQYuzh7Q/edit?usp=drive_web&ouid=112941586298926482945)}
 * Week 5: Discussion of [Team 1](Team1/) Model 
 * Week 6: Discussion of [Team 3](Team3/) Model, Revision of [Team 1](Team1/) Model, Modeling Vaccination {[slide](Slides/SEIRHDvac.pdf)}{[code](files/SVEIR.pdf)}
-* Week 7: Revision of [Team 1](Team1/) Model and [Team 2](Team2/) Model, Running the Model {[slide](Slides/runModel.pdf)
+* Week 7: Revision of [Team 1](Team1/) Model and [Team 2](Team2/) Model, Running the Model {[slide](Slides/runModel.pdf)}
